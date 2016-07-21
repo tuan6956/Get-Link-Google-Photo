@@ -1,0 +1,12 @@
+D:\laptrinh\Get Link Google Photo\Get Link Google Photo\obj\Debug\Get Link Google Photo.csprojResolveAssemblyReference.cache
+D:\laptrinh\Get Link Google Photo\Get Link Google Photo\obj\Debug\Get_Link_Google_Photo.Properties.Resources.resources
+D:\laptrinh\Get Link Google Photo\Get Link Google Photo\obj\Debug\Get Link Google Photo.csproj.GenerateResource.Cache
+D:\laptrinh\Get Link Google Photo\Get Link Google Photo\bin\Debug\Get Link Google Photo.exe
+D:\laptrinh\Get Link Google Photo\Get Link Google Photo\bin\Debug\Get Link Google Photo.pdb
+D:\laptrinh\Get Link Google Photo\Get Link Google Photo\bin\Debug\HtmlAgilityPack.dll
+D:\laptrinh\Get Link Google Photo\Get Link Google Photo\bin\Debug\xNet.dll
+D:\laptrinh\Get Link Google Photo\Get Link Google Photo\bin\Debug\HtmlAgilityPack.pdb
+D:\laptrinh\Get Link Google Photo\Get Link Google Photo\bin\Debug\HtmlAgilityPack.xml
+D:\laptrinh\Get Link Google Photo\Get Link Google Photo\obj\Debug\Get Link Google Photo.exe
+D:\laptrinh\Get Link Google Photo\Get Link Google Photo\obj\Debug\Get Link Google Photo.pdb
+D:\laptrinh\Get Link Google Photo\Get Link Google Photo\obj\Debug\Get_Link_Google_Photo.FormMain.resources
